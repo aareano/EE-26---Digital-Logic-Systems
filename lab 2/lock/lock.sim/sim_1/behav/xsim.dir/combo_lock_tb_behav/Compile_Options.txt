@@ -1,0 +1,1 @@
+-wto "0aa383c384bf43e6a098abb072c731ab" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "combo_lock_tb_behav" "xil_defaultlib.combo_lock_tb" -log "elaborate.log" 

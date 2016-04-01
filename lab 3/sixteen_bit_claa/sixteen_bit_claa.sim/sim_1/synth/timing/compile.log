@@ -1,0 +1,3 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ajayak02.HLGN/Downloads/EE-26---Digital-Logic-Systems-master/EE-26---Digital-Logic-Systems-master/sixteen_bit_claa/sixteen_bit_claa.srcs/sim_1/imports/new/claa_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity claa_tb

@@ -1,0 +1,11 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ajayak02.HLGN/Downloads/EE-26---Digital-Logic-Systems-master/EE-26---Digital-Logic-Systems-master/sixteen_bit_casc/sixteen_bit_casc.srcs/sources_1/imports/new/full_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity full_adder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ajayak02.HLGN/Downloads/EE-26---Digital-Logic-Systems-master/EE-26---Digital-Logic-Systems-master/sixteen_bit_casc/sixteen_bit_casc.srcs/sources_1/imports/new/four_bit_cla.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity four_bit_cla
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ajayak02.HLGN/Downloads/EE-26---Digital-Logic-Systems-master/EE-26---Digital-Logic-Systems-master/sixteen_bit_casc/sixteen_bit_casc.srcs/sources_1/imports/new/four_bit_claa.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity four_bit_claa
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ajayak02.HLGN/Downloads/EE-26---Digital-Logic-Systems-master/EE-26---Digital-Logic-Systems-master/sixteen_bit_casc/sixteen_bit_casc.srcs/sources_1/imports/new/sixteen_bit_casc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sixteen_bit_casc
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ajayak02.HLGN/Downloads/EE-26---Digital-Logic-Systems-master/EE-26---Digital-Logic-Systems-master/sixteen_bit_casc/sixteen_bit_casc.srcs/sim_1/imports/new/casc_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity casc_tb

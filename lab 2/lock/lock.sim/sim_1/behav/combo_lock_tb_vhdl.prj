@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../lock.srcs/sources_1/new/combination_lock.vhd"
+vhdl xil_defaultlib  "../../../lock.srcs/sources_1/new/seven_seg_display.vhd"
+vhdl xil_defaultlib  "../../../lock.srcs/sources_1/new/lock.vhd"
+vhdl xil_defaultlib  "../../../lock.srcs/sim_1/new/combo_lock_tb.vhd"

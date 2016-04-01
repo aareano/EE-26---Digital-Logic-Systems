@@ -1,0 +1,1 @@
+-wto "23ff4e4164dc4e279258c0a10c926156" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "casc_tb_behav" "xil_defaultlib.casc_tb" -log "elaborate.log" 

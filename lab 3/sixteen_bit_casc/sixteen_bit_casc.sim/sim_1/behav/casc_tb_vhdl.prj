@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../sixteen_bit_casc.srcs/sources_1/imports/new/full_adder.vhd"
+vhdl xil_defaultlib  "../../../sixteen_bit_casc.srcs/sources_1/imports/new/four_bit_cla.vhd"
+vhdl xil_defaultlib  "../../../sixteen_bit_casc.srcs/sources_1/imports/new/four_bit_claa.vhd"
+vhdl xil_defaultlib  "../../../sixteen_bit_casc.srcs/sources_1/imports/new/sixteen_bit_casc.vhd"
+vhdl xil_defaultlib  "../../../sixteen_bit_casc.srcs/sim_1/imports/new/casc_tb.vhd"

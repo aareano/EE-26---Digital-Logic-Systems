@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Fri Mar 11 13:53:54 2016
+# Process ID: 3084
+# Log file: Z:/Desktop/EE-26---Digital-Logic-Systems/lock/lock.runs/impl_1/lock.vdi
+# Journal file: Z:/Desktop/EE-26---Digital-Logic-Systems/lock/lock.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source lock.tcl -notrace

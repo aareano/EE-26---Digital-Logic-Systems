@@ -1,0 +1,9 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Desktop/EE-26---Digital-Logic-Systems/lock/lock.srcs/sources_1/new/combination_lock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity combination_lock
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Desktop/EE-26---Digital-Logic-Systems/lock/lock.srcs/sources_1/new/seven_seg_display.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity seven_seg_display
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Desktop/EE-26---Digital-Logic-Systems/lock/lock.srcs/sources_1/new/lock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lock
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/Desktop/EE-26---Digital-Logic-Systems/lock/lock.srcs/sim_1/new/combo_lock_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity combo_lock_tb
